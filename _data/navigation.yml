@@ -4,3 +4,15 @@ main:
     url: /events/
   - title: "Travels"
     url: /travels/
+
+docs:
+  - title: "Web"
+    children:
+      - title: "Kubernetes"
+        url: Kubernetes/
+  - title: "Climbing"
+    children:
+      - title: "Moonboard"
+        url: moonboard/
+      - title: "Travel"
+        url: climbing-travel/
