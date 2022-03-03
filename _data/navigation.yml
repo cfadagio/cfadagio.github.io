@@ -9,8 +9,11 @@ docs:
   - title: "Web"
     children:
       - title: "Kubernetes"
-        url: Kubernetes/
+        url: kubernetes/
         category: "kubernetes"
+      - title: "Mysql"
+        url: mysql/
+        category: "mysql"
   - title: "Climbing"
     children:
       - title: "Moonboard"
