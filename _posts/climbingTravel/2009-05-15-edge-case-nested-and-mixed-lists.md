@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "클라이밍 여행 - 시작"
+title:  "클라이밍 여행 - 시작0"
 #folder: "jekyll"
 categories:
   - climbingTravel
