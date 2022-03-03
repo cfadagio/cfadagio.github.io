@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "사이드바 메뉴 설정"
-folder: "jekyll"
+title:  "클라이밍 여행 - 시작"
+#folder: "jekyll"
 categories:
   - climbingTravel
 tags: [blog, jekyll]
@@ -15,7 +15,7 @@ toc_label: "목록"
 toc_icon: "bars"
 toc_sticky: true
 
-date: 2021-07-30
+date: 2015-06-01
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
