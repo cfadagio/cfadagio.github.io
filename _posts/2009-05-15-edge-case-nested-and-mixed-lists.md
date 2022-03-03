@@ -1,13 +1,21 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+layout: single
+title:  "사이드바 메뉴 설정"
+folder: "jekyll"
 categories:
-  - Edge Case
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - climbingTravel
+tags: [blog, jekyll]
+
+author_profile: true
+sidebar:
+  nav: "docs"
+
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+
+date: 2021-07-30
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that

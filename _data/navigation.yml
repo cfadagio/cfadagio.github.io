@@ -10,9 +10,12 @@ docs:
     children:
       - title: "Kubernetes"
         url: Kubernetes/
+        category: "kubernetes"
   - title: "Climbing"
     children:
       - title: "Moonboard"
         url: moonboard/
+        category: "moonboard"
       - title: "Travel"
         url: climbing-travel/
+        category: "climbingTravel"
